@@ -1,0 +1,10 @@
+package main
+import "fmt"
+//Dustin Verzosa
+
+func main() {
+
+  feet := 100.0
+  fmt.Println(feet, "ft = ", feet*0.3048, "m")
+
+}
